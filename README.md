@@ -16,4 +16,4 @@ Used software (all opensource):
   * Ultimaker Cura version 3..6.0 from https://ultimaker.com/en/products/ultimaker-cura-software
   * Arduino IDE version 1.8.7 from https://www.arduino.cc/en/Main/Software
   
-My contribuition to project is that i used an Arduino Nano controller to convert Throttle and Steer commands from Pistol Remote Controller (the normal commands for a car) in two independent commands for left and right Electric Speed Controllers (
+My contribution to project is that i used an Arduino Nano controller to convert Throttle and Steer commands from Pistol Remote Controller (the normal commands for a car) in two independent commands for left and right Electric Speed Controllers (a tank driver uses two levers to send different commands for each side tracks).
